@@ -76,3 +76,11 @@ body {
   #contact-us{
     text-align: center;
   }
+  
+  #appointmentform{
+display: inline-flex;
+white-space: white;
+  }
+  #submit{
+    width: 100px;
+  }
