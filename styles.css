@@ -78,9 +78,9 @@ body {
   }
   
   #appointmentform{
-display: inline-flex;
+display: inline;
 white-space: white;
   }
   #submit{
-    width: 100px;
+    width: 200px;
   }
