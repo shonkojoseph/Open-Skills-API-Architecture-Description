@@ -13,16 +13,6 @@
  ## Description
  This is a projecr that allow customers to get knowledge about "Enashipae Nail bae", and they are able to acces it by booking an apointment.
 
- 
- # (Project Name)
-
-#### Date, 2018/09/14
-
-#### By *Hamida Mstafa Mohamed*
-
-## Description
-It's a webpage that shows different types of triangles and what they look like.
-
 ## Installation
 You use git clone to be able to download the documents in the GitHub
 
