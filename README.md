@@ -21,17 +21,16 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone https://github.com/shonkojoseph/SDF-FT09-Infernals-Phase1-Project-Pitches
 
 ```
 
 # Live Link
-[Git](gh-pages link)
+[Git](https://github.com/shonkojoseph/SDF-FT09-Infernals-Phase1-Project-Pitches)
 
 ## Technologies used
 HTML
 CSS
-Github
 Javascript
 
 ## Support and contact details
